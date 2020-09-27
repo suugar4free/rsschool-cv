@@ -1,18 +1,19 @@
 #Resume
-#Maksim Masliakov
 
-##Contact info:
-###Email: Deadked2011@gmail.com
-###Discord: Maksim #8452
+# Maksim Masliakov
 
-##Summary:
+## Contact info:
+### Email: Deadked2011@gmail.com
+### Discord: Maksim #8452
+
+## Summary:
 My goal is to be a front-end developer.
 
-##Skills:
+## Skills:
 
 
-##Education:
+## Education:
 Self-study
 
-##English level:
+## English level:
 B1

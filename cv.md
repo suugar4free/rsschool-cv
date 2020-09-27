@@ -15,7 +15,6 @@
 
 ## Summary:
 ***
-
 My goal is to be a front-end developer.
 
 ## Skills:

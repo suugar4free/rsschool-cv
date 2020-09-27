@@ -3,7 +3,7 @@
 
 ##Contact info:
 ###Email: Deadked2011@gmail.com
-###Discord: Зеттафлопс#8452
+###Discord: Maksim #8452
 
 ##Summary:
 My goal is to be a front-end developer.
